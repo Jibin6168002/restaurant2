@@ -1,0 +1,121 @@
+body{
+    background-color:rgb(21, 83, 83);
+}
+#d1{
+    margin-left: -100px;
+    margin-top: -80px;
+    height: 600px ;
+    padding-top: 2%;
+    
+    }
+    #d2{
+        
+        position: absolute;
+        left:600px;
+        top: 40px;
+          
+    }
+    #d3{
+        
+    margin-top:50px;
+    margin-left: 45px; 
+    color: #ae4d71 ;
+    align-items: center;
+    }
+    #d4{
+        border: none;
+        width: 380px;
+        height: 290px;
+        margin-left: -27px; 
+        border-radius: 5px;
+        background-color: #262654;
+        font-size: 20px;
+        box-shadow: 0 0 10px 1px rgba(0, 0, 0,0.2) ;
+        margin-top: -25px; 
+    }
+    body{
+        font-family: Helvetica, sans-serif;
+      }
+    input{
+     margin-left: 20px;
+    height: 50px;
+    width: 85%;
+    border: 2px solid rgba(0, 0, 0,0.1) ;
+    font-size: 15px;
+    padding-left: 20px;
+    font-weight: 500;
+    color: rgba(0, 0, 0,0.5);
+    border-radius: 5px;
+    }
+    #username{
+        margin-bottom: 10px;
+    }
+    #password{
+        margin-bottom: 10px;
+    }
+    button{
+        height: 35px;
+        width: 98%;
+        background-color: pink;
+        color:brown;
+        border-radius: 5px;
+        border: none;
+        font-size: large;
+        font-weight: bold;
+        position: absolute;
+        right: 14px;
+        top: 450px;
+    }
+    a{
+        text-decoration: none;
+        font-size: 14px;
+        float: left;
+        margin-left: -10px;
+        margin-top: 70px;
+        color:green;
+        
+    }
+    #a2{
+        margin-left: 10px;
+        text-decoration: none;
+        font-size: 14px;
+        color:green;
+    }
+    #a2:hover{
+        text-decoration: underline;
+        color: aqua;
+        font-size: large;
+    }
+    #a1{
+        margin-left: 60px;
+        text-decoration: none;
+        font-size: 14px;
+        color: red;
+    }
+    #a1:hover{
+        text-decoration: underline;
+        color: aqua;
+        font-size: large;
+    }
+    p{
+        font-size: 2;
+        text-align: center;
+    }
+    img{
+        width: 240px;
+        height: 85px;
+    }
+    #img1{
+        width:200px;
+        height:190px;
+        margin-left: -1px;
+        
+     
+    }
+    i{
+        margin: 20px 20px 20px 20px;
+    }
+    i:hover{
+        font-size:500%;
+        color: red;
+    }
