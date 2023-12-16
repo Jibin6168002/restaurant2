@@ -86,9 +86,10 @@ ul{
   animation: slide 6s infinite;
   border: 1px solid red;
 
-  margin-left: 1135px;
+ 
   position: absolute;
   top: 180px;
+  right: 100px;
   background-repeat: no-repeat;
 }
 @keyframes slide{
@@ -160,3 +161,40 @@ footer{
 }
  
   
+
+/*
+ <div id="sl">
+        
+
+    </div> 
+#sl{
+  width: 300px;
+  height: 300px;
+  animation: slide 6s infinite;
+  border: 1px solid red;
+
+  margin-left: 1135px;
+  position: absolute;
+  top: 180px;
+  background-repeat: no-repeat;
+}
+@keyframes slide{
+  25%{
+    background: url(./reim/menu10.png);
+  }
+  50%{
+    background: url(./reim/menu11.png);
+  }
+  75%{
+    background: url(./reim/menu12.png);
+  }
+  100%{
+    background: url(./reim/menu13.png);
+  }
+  0%{
+    background: url(./reim/menu10.png);
+  }
+
+}
+
+*/
